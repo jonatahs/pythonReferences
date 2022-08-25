@@ -5,7 +5,7 @@ import pandas as pd
 
 
 # url api with key
-url = 'http://ieeexploreapi.ieee.org/api/v1/search/articles?apikey=whpwmy7cp2v2gbeq5pkhfgas&format=json&max_records=10&start_record=1&sort_order=asc&sort_field=article_number&article_title=big+data&publication_title=big+data'
+url = 'http://ieeexploreapi.ieee.org/api/v1/search/articles?apikey=apiKey&format=json&max_records=10&start_record=1&sort_order=asc&sort_field=article_number&article_title=big+data&publication_title=big+data'
 
 # Connecting to the api
 
